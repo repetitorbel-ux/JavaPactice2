@@ -1,11 +1,9 @@
-package by.vadarod.practice_task7_Exception;
+package by.vadarod.practiceThemes15_16.Exception;
 
-import by.vadarod.practice_task7_Exception.entity.User;
-import by.vadarod.practice_task7_Exception.exception.NotCorrectPasswordException;
-import by.vadarod.practice_task7_Exception.exception.UserNotFoundException;
-import by.vadarod.practice_task7_Exception.service.UserService;
-
-//import static by.vadarod.practice_task7_Exception.Service.authenticating;
+import by.vadarod.practiceThemes15_16.Exception.entity.User;
+import by.vadarod.practiceThemes15_16.Exception.exception.NotCorrectPasswordException;
+import by.vadarod.practiceThemes15_16.Exception.exception.UserNotFoundException;
+import by.vadarod.practiceThemes15_16.Exception.service.UserService;
 
 public class Main {
     public static void main(String[] args) {

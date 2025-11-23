@@ -1,7 +1,7 @@
-package by.vadarod.practice_task7_Exception.repository;
+package by.vadarod.practiceThemes15_16.Exception.repository;
 
-import by.vadarod.practice_task7_Exception.entity.User;
-import by.vadarod.practice_task7_Exception.exception.UserNotFoundException;
+import by.vadarod.practiceThemes15_16.Exception.entity.User;
+import by.vadarod.practiceThemes15_16.Exception.exception.UserNotFoundException;
 
 import java.util.ArrayList;
 import java.util.List;

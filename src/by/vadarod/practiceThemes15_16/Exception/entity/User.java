@@ -1,4 +1,4 @@
-package by.vadarod.practice_task7_Exception.entity;
+package by.vadarod.practiceThemes15_16.Exception.entity;
 
 public class User {
     private String login; //логин,

@@ -1,8 +1,8 @@
-package by.vadarod.practice_task7_Exception.service;
+package by.vadarod.practiceThemes15_16.Exception.service;
 
-import by.vadarod.practice_task7_Exception.entity.User;
-import by.vadarod.practice_task7_Exception.exception.NotCorrectPasswordException;
-import by.vadarod.practice_task7_Exception.repository.UserRepository;
+import by.vadarod.practiceThemes15_16.Exception.entity.User;
+import by.vadarod.practiceThemes15_16.Exception.exception.NotCorrectPasswordException;
+import by.vadarod.practiceThemes15_16.Exception.repository.UserRepository;
 
 public class UserService {
     public User authenticate (String login, String password) {

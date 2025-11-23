@@ -1,4 +1,4 @@
-package by.vadarod.practice_task7_Map;
+package by.vadarod.practiceThemes15_16.Map;
 
 import java.util.HashMap;
 import java.util.Map;

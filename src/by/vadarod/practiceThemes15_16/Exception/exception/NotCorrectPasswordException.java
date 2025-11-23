@@ -1,4 +1,4 @@
-package by.vadarod.practice_task7_Exception.exception;
+package by.vadarod.practiceThemes15_16.Exception.exception;
 
 public class NotCorrectPasswordException extends RuntimeException{
     public NotCorrectPasswordException(String message) {
