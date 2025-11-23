@@ -1,4 +1,4 @@
-package by.vadarod.practiceThemes15_16.FermaCollectionVoid;
+package by.vadarod.practiceThemes17_18.FermaCollectionVoid;
 
 import java.io.Serializable;
 

@@ -1,6 +1,4 @@
-package by.vadarod.practiceThemes15_16.ferma;
-
-import by.vadarod.practiceThemes15_16.FermaCollectionVoid.Ferma;
+package by.vadarod.practiceThemes17_18.ferma;
 
 import java.io.*;
 

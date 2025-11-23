@@ -1,4 +1,4 @@
-package by.vadarod.practiceThemes17_18.FermaCollectionReturn;
+package by.vadarod.practiceThemes17_18.ferma;
 
 import java.io.Serializable;
 
